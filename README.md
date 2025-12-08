@@ -1,2 +1,0 @@
-# CoobleMMO
-CobbleMMO
